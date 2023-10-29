@@ -1,0 +1,59 @@
+/* Additional CSS styles for the portfolio website */
+
+/* Hero Section Styles */
+#hero {
+    background-image: url('hero-background.jpg'); /* Add your background image URL */
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 150px 0;
+}
+
+/* About Section Styles */
+#about {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Experience Section Styles */
+#experience {
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Projects Section Styles */
+#projects {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Project Item Styles */
+.project-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+/* Contact Section Styles */
+#contact {
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
